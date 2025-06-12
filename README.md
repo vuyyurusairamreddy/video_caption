@@ -10,14 +10,6 @@ This project is a Python-based tool that automatically generates natural languag
 - Supports .avi and .mp4 files.
 - Runs on CPU or GPU.
 
-## Project Structure
-
- -video-caption-blip/
- -video_caption_blip.py         # Main script
- -requirements.txt              # Dependencies
- -README.md                     # This documentation file
- -frames/                       # Folder for extracted frames (created automatically)
- -videos/                       # Place your input videos here
 
 ## Setup Instructions
 
